@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\bin\Debug\Silla2D.exe.config
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\bin\Debug\Silla2D.exe
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\bin\Debug\Silla2D.pdb
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\bin\Debug\OpenTK.dll
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\bin\Debug\OpenTK.pdb
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\bin\Debug\OpenTK.xml
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.Properties.Resources.resources
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.csproj.CopyComplete
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.exe
+C:\Users\HP\Desktop\P Grafica\Silla 2D\Silla2D\Silla2D\obj\Debug\Silla2D.pdb
